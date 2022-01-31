@@ -1,0 +1,10 @@
+O Git é uma ferramenta que permite fazermos o genciamento de controle de versão (projetos).
+- Facilita o trabalho colaborativo.
+-Fácil de manter o rastreamento de arquivos.
+
+Github:
+È um serviço cloud que permite armazenar os projetos.
+- È a plataforma que guarda os repositporios na nuvem.
+- O git surgiu como uma ferramenta que propõe facilitar o versionamento e a colaboração em qualquer tipo de projeto.
+
+- Gitbash é o terminal do Git
